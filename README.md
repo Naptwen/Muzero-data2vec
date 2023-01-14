@@ -11,3 +11,9 @@ The code base on pytorch\
 - NLP machine learing
 - Data science
 - etc
+# Requirement for programming
+- Pytroch
+- Python
+- Numpy
+- Panda
+- OpenCV
